@@ -1,0 +1,152 @@
+.nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    /* padding: 20px; */
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+    height: 50px;
+
+
+    transition-timing-function: ease-in;
+    transition: all 0.9s;
+
+}
+
+.nav_black {
+    background-color: black;
+}
+
+.nav_logo {
+
+    position: fixed;
+    width: 100px;
+    object-fit: contain;
+    left: 0;
+
+}
+
+.nav_avatar {
+    position: fixed;
+    width: 30px;
+    object-fit: contain;
+    right: 20px;
+    top: 10px;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    /* padding: 20px; */
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+    height: 50px;
+
+}
+
+.nav_black {
+    background-color: black;
+}
+
+.nav_logo {
+    position: fixed;
+    width: 100px;
+    object-fit: contain;
+    left: 0;
+}
+
+.nav_avatar {
+    position: fixed;
+    width: 30px;
+    object-fit: contain;
+    right: 20px;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    /* padding: 20px; */
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+    height: 50px;
+
+}
+
+.nav_black {
+    background-color: black;
+}
+
+.nav_logo {
+    position: fixed;
+    width: 100px;
+    object-fit: contain;
+    left: 0;
+}
+
+.nav_avatar {
+    position: fixed;
+    width: 30px;
+    object-fit: contain;
+    right: 20px;
+}nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    /* padding: 20px; */
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+    height: 50px;
+
+}
+
+.nav_black {
+    background-color: black;
+}
+
+.nav_logo {
+    position: fixed;
+    width: 100px;
+    object-fit: contain;
+    left: 0;
+}
+
+.nav_avatar {
+    position: fixed;
+    width: 30px;
+    object-fit: contain;
+    right: 20px;
+}nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    /* padding: 20px; */
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+    height: 50px;
+
+}
+
+.nav_black {
+    background-color: black;
+}
+
+.nav_logo {
+    position: fixed;
+    width: 100px;
+    object-fit: contain;
+    left: 0;
+}
+
+.nav_avatar {
+    position: fixed;
+    width: 30px;
+    object-fit: contain;
+    right: 20px;
+}
